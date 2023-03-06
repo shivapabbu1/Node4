@@ -1,0 +1,42 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+  margin-left: 50px;
+}
+
+
+
+.about{
+  text-align: center;
+  display: flex;
+ 
+  justify-content: center;
+
+}
+
+p{
+  text-align: center;
+  font-size: xx-large;
+}
+.p{
+  text-align: center;
+  font-size: xx-large;
+}
+.contact{
+  text-align: center;
+  display: flex;
+ 
+  justify-content: center;
+
+}
+.home{
+  text-align: center;
+  display: flex;
+
+  justify-content: center;
+
+}
